@@ -1,2 +1,2 @@
-# how_to_do_data_science
+# How to do data science
 A collection of tips and tricks to conduct good data science
