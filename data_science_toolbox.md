@@ -2,6 +2,10 @@
 
 This page presents the SEGES digital data science toolbox, which is an overview of the data science field, by grouping the sub-fields of data science and their respective methods and tools available as Python packages or programs. The figure below shows our take on visualizing data science with its sub-fields. The main gold for our team is to develop valuable software solutions or insightful technical articles or reports.
 
+![Diagram](https://github.com/PeterFogh/how_to_do_data_science/data_science_overview.drawio)
+![Alt](images/someimage.png)
+![dsfdf](Untitled Diagram.drawio)
+
 ## The data engineering toolbox
 
 See topics of data management [on wikipedia here](https://en.m.wikipedia.org/wiki/Data_management).
