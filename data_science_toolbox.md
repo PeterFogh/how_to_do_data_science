@@ -282,7 +282,7 @@ See [Seeing Theory](https://seeing-theory.brown.edu/) for a good visual introduc
         -   [Colab](https://colab.research.google.com/)
         -   [CoCalc](https://cocalc.com/) - see [https://github.com/sagemathinc/cocalc-docker](https://github.com/sagemathinc/cocalc-docker)
 -   Traditional software development:
-    -   Graphical user interface (GUI) development - [wxPython](https://wxpython.org/), [Gooey](https://github.com/chriskiehl/Gooey), [Streamlit](https://streamlit.io/)
+    -   Graphical user interface (GUI) development - [wxPython](https://wxpython.org/), [Gooey](https://github.com/chriskiehl/Gooey), [Streamlit](https://streamlit.io/), [Panel](https://panel.holoviz.org/)
     -   Command-line interface (CLI) development:
         -   Progress bar - [tqdm](https://github.com/tqdm/tqdm), [alive-progress](https://github.com/rsalmei/alive-progress)
     -   Feature toggling - [ldclient](https://github.com/launchdarkly/python-server-sdk) (LaunchDarkly SDK for Python), [flipper](https://github.com/carta/flipper-client)
