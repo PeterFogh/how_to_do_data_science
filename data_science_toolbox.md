@@ -114,6 +114,7 @@ See [Seeing Theory](https://seeing-theory.brown.edu/) for a good visual introduc
     -   gensim: **TODO: Document Python package and link to it.**
     -   tensorflow: **TODO: Document Python package and link to it.**
     -   pytorch: **TODO: Document Python package and link to it.**
+        - [PyTracking](https://github.com/visionml/pytracking) is a framework for visual object tracking and video object segmentation, based on PyTorch.
         - [DeepSpeed](https://github.com/microsoft/DeepSpeed) is a wrapper on PyTorch which optimized the training process.
     -   [cuML](https://github.com/rapidsai/cuml): offers traditional tabular ML tasks on GPUs without going into the details of CUDA programming. It shares compatible APIs with other  [RAPIDS](https://rapids.ai/)  projects.
     -   [NimbusML](https://github.com/microsoft/NimbusML) binding to [ML.NET](https://dotnet.microsoft.com/apps/machinelearning-ai/ml-dotnet): TODO.
