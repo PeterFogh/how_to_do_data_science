@@ -304,7 +304,12 @@ See [Seeing Theory](https://seeing-theory.brown.edu/) for a good visual introduc
     -   Debugging:
         -   Debuggers - [pdb](https://docs.python.org/3/library/pdb.html), [pdbpp](https://github.com/pdbpp/pdbpp/)
         -   Error messages - [stackprinter](https://github.com/cknd/stackprinter/)
-    -   Code analysis: [flake8](http://flake8.pycqa.org/en/latest/), [dlint](https://github.com/duo-labs/dlint)
+    -   Static code analysis:
+        -   Best coding practices - [flake8](http://flake8.pycqa.org/en/latest/), [dlint](https://github.com/duo-labs/dlint), [black](https://github.com/psf/black)
+	-   Code metrics - [radon](https://radon.readthedocs.io/en/latest/), [xenon](https://xenon.readthedocs.io/en/latest/),
+	-   Find dead code - [vulture](https://github.com/jendrikseipp/vulture),
+	-   Security - [PyCQA](https://github.com/PyCQA/bandit)
+        -   Docstrings - [pydocstyle](https://pypi.org/project/pydocstyle/), [interrogate](https://github.com/econchick/interrogate/)
     -   Read domain-specific data formats:
         -   calendar data: for .ICS files use [ics](https://icspy.readthedocs.io)
 -   Data science software development:
