@@ -118,6 +118,7 @@ See [Seeing Theory](https://seeing-theory.brown.edu/) for a good visual introduc
         - [DeepSpeed](https://github.com/microsoft/DeepSpeed) is a wrapper on PyTorch which optimized the training process.
     -   [cuML](https://github.com/rapidsai/cuml): offers traditional tabular ML tasks on GPUs without going into the details of CUDA programming. It shares compatible APIs with other  [RAPIDS](https://rapids.ai/)  projects.
     -   [NimbusML](https://github.com/microsoft/NimbusML) binding to [ML.NET](https://dotnet.microsoft.com/apps/machinelearning-ai/ml-dotnet): TODO.
+    -   [tslearn](https://tslearn.readthedocs.io/en/stable/) provides machine learning tools for the analysis of time series.
 -   Feature engineering:
     -   Data vectorization (creating data embeddings):
         -   Categorical feature encoding - [feature-engine](https://feature-engine.readthedocs.io/en/latest/encoders/index.html)
